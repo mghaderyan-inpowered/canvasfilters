@@ -1,4 +1,4 @@
-Filters = {};
+const Filters = {};
 
 if (typeof Float32Array == 'undefined') {
   Filters.getFloat32Array =
